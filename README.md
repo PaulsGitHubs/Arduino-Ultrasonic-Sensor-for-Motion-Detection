@@ -11,7 +11,7 @@ There are multiple ways of building out this project:
 - arduion uno and esp8622 and ultrasonic detector (could would be same but adapted to setup)
 - beagle board and ultrasonic detector (code would be different)
 - raspberry pi with familliar components (code would be written in python)
-- 
+
 # Places to place to detect unwanted motion
 - door
 - window
